@@ -69,7 +69,7 @@ The project plan must include:
         * Be as detailed as you can at this point  
         * Add as many images and videos or references as you like  
     * Categorization
-        * Explain which of the following categories are you planning to be part of your project and how so:
+        * Chose up to three of the following categories that represent your project and on which we base the grading criteria:
             * Creative / artistic development
             * Narrative development
             * Audio-visual design
@@ -123,7 +123,7 @@ The final project submission must include:
 2. Project documentation
     * You can refer to any content of part 1, you do not have to repeat yourself
     * Your work diary with temporary results and failure cases
-    * Explain which of the following categories are part of your results and how so:
+    * Explain how you fulfilled your previously chosen categories:
         * Creative / artistic development
         * Narrative development
         * Audio-visual design
@@ -178,7 +178,7 @@ If you complete all other requirements but the final project submission, you can
 
 ### Result Quality
 
-The result quality is graded mainly but not exclusively based on (also, only if applicable) the following criteria:
+The result quality is graded mainly but not exclusively based on (also, depending on your chosen criteria) the following criteria:
 
 * Conceptual mastery and idea
 * Clarity and cohesiveness
