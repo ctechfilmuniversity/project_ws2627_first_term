@@ -37,12 +37,12 @@ Unless otherwise discussed with your advisor, you are meeting with your advisor 
 * Bi-weekly talks with your mentor, Tuesdays between 14-17:00
 * Project presentation: 06.01.26, 13-18:00, room 6119
 * Project plan submission: 13.01.27, 23:59, Berlin time
-* Project submission: 15.03.27, 23:59, Berlin time
+* Project submission: 12.03.27, 23:59, Berlin time
 * Final presentation: Beginning of April 2027
 
 ## Working Period
 
-The official working period for the first term project is 05.01.-15.03.26. 
+The official working period for the first term project is 05.01.-12.03.27. 
 
 ### Sickness 
 
