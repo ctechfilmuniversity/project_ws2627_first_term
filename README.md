@@ -29,8 +29,10 @@ Prof. Dr. Lena Gieseke - l.gieseke@filmuniversitaet.de
 
 Unless otherwise discussed with your advisor, you are meeting with your advisor every two weeks to talk about your project in detail. It is your responsibility to get in touch and to make appointments.
 
-***You can use the time slot scheduled for CTech Lab I to work on your project and meet your advisor.***
-
+Furthermore we offer the following slots to meet as a group with all advisors:
+- 11.11.26, 14:30-15:30, room tba
+- 1.12.26, 15-16, room tba
+- 01.02.27, 15:30-16:30, room tba
 
 ## Deadlines and Presentation Times
 
